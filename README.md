@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚙️ Muzaffar JavaScript Compiler Playground
 
 This project is a simple yet powerful in-browser JavaScript compiler designed for educational and quick testing purposes. Write any JS code, run it safely in the browser, see the output or errors in real-time, and download your script for later use!
@@ -40,3 +41,7 @@ This project is a simple yet powerful in-browser JavaScript compiler designed fo
 ```bash
 git clone https://github.com/muzaffarbekmustafayevgit/JScompiler.git
 cd JScompiler
+=======
+# JScompiler
+💡 Simple yet powerful JavaScript compiler playground that executes any JS code, displays output and errors, and allows you to download your code as script.js.
+>>>>>>> 9c737a2a89e986c0347bc56308d7c3bfcf59cf59
